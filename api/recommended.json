@@ -1,0 +1,312 @@
+{
+  "items": [{
+    "land-see-category": [{
+      "media-query": "(min-width: 52.06rem)",
+      "width": "848",
+      "height": "460",
+      "layout": "fixed",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/03/22/17/39/kitchen-2165756_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Feel the sand on your feet, not your wardrobe weight.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "How to Pack Light When Traveling",
+            "post-copy": "Whether it’s a short weekend getaway or an extended holiday, choosing carefully from your accessories can help lighten your load while expanding your repertory."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Good eats.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2018/02/04/17/11/venice-3130323_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "Quick Bites in the Bay Area",
+            "post-copy": "From Sonoma to Santa Clara, we've found the best spots for quick and delicious bites."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Build a killer outfit.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "New Textile & Basics Shop Opens in Soho",
+            "post-copy": "Everyone’s wardrobe needs the well-fitting, structured, and neutral basics to provide the start for the building of a killer outfit."
+          }
+        ]
+      }]
+    },
+    {
+      "media-query": "(min-width: 40.06rem) and (max-width: 52rem)",
+      "width": "636",
+      "height": "460",
+      "layout": "fixed",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2020/11/24/11/36/bedroom-5772286_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Feel the sand on your feet, not your wardrobe weight.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2020/11/24/11/36/bedroom-5772286_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "How to Pack Light When Traveling",
+            "post-copy": "Whether it’s a short weekend getaway or an extended holiday, choosing carefully from your accessories can help lighten your load while expanding your repertory."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Good eats.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/12/03/17/30/alley-2995354_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "Quick Bites in the Bay Area",
+            "post-copy": "From Sonoma to Santa Clara, we've found the best spots for quick and delicious bites."
+          }
+        ]
+      },
+      {
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Build a killer outfit.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/07/30/23/59/garlic-2556022_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "New Textile & Basics Shop Opens in Soho",
+            "post-copy": "Everyone’s wardrobe needs the well-fitting, structured, and neutral basics to provide the start for the building of a killer outfit."
+          }
+        ]
+      }]
+    },
+    {
+      "media-query": "(min-width: 27.06rem) and (max-width: 40rem)",
+      "width": "424",
+      "height": "460",
+      "layout": "fixed",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Feel the sand on your feet, not your wardrobe weight.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2022/01/26/04/47/house-6967908_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "How to Pack Light When Traveling",
+            "post-copy": "Whether it’s a short weekend getaway or an extended holiday, choosing carefully from your accessories can help lighten your load while expanding your repertory."
+          }
+        ]
+      },
+      {
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Good eats.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2018/01/24/15/08/live-3104077_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "Quick Bites in the Bay Area",
+            "post-copy": "From Sonoma to Santa Clara, we've found the best spots for quick and delicious bites."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Build a killer outfit.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "../img/land-see/content/retail-shop-370px.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "New Textile & Basics Shop Opens in Soho",
+            "post-copy": "Everyone’s wardrobe needs the well-fitting, structured, and neutral basics to provide the start for the building of a killer outfit."
+          }
+        ]
+      }]
+    },
+    {
+      "media-query": "(max-width: 27rem)",
+      "width": "auto",
+      "height": "460",
+      "layout": "fixed-height",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Feel the sand on your feet, not your wardrobe weight.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2022/01/30/19/46/school-6982073_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "How to Pack Light When Traveling",
+            "post-copy": "Whether it’s a short weekend getaway or an extended holiday, choosing carefully from your accessories can help lighten your load while expanding your repertory."
+          }
+        ]
+      },
+      {
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Good eats.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2013/10/09/02/27/lake-192990_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "blog.htmll?category=arts-culture#land-see-arts-culture",
+            "post-title": "Quick Bites in the Bay Area",
+            "post-copy": "From Sonoma to Santa Clara, we've found the best spots for quick and delicious bites."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Build a killer outfit.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2014/11/21/17/17/house-540796_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-recommended",
+            "post-url": "blog.html",
+            "post-category": "Fashion",
+            "post-category-url": "blog.htmll?category=fashion#land-see-fashion",
+            "post-title": "New Textile & Basics Shop Opens in Soho",
+            "post-copy": "Everyone’s wardrobe needs the well-fitting, structured, and neutral basics to provide the start for the building of a killer outfit."
+          }
+        ]
+      }]
+    }]
+  }]
+}

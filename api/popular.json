@@ -1,0 +1,312 @@
+{
+  "items": [{
+    "land-see-category": [{
+      "media-query": "(min-width: 52.06rem)",
+      "width": "848",
+      "height": "450",
+      "layout": "fixed",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2016/08/26/15/06/home-1622401_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Birdhouse metaphor.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/01/07/17/48/interior-1961070_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Interior Design for Tiny Homes",
+            "post-copy": "Rampant materialism is a no-no for the tiny home owner, but this doesn’t strand these minimalists in the design desert."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "The Unsplash Book.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2016/12/30/07/59/kitchen-1940174_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "Nightstand-Worthy Books",
+            "post-copy": "We’ve collected our 100 favorite recommendations from our nightstands over the last year for those looking for a new read."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Through the mist.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2020/12/16/00/10/home-5835289_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Bold Coast Cottage in Main",
+            "post-copy": "My travels in Main have taken me to many destinations not in the standard visitor’s guide."
+          }
+        ]
+      }]
+    },
+    {
+      "media-query": "(min-width: 40.06rem) and (max-width: 52rem)",
+      "width": "636",
+      "height": "450",
+      "layout": "fixed",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Birdhouse metaphor.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2020/12/16/00/10/home-5835289_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Interior Design for Tiny Homes",
+            "post-copy": "Rampant materialism is a no-no for the tiny home owner, but this doesn’t strand these minimalists in the design desert."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "The Unsplash Book.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "../img/land-see/content/books-you-need-200px.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "Nightstand-Worthy Books",
+            "post-copy": "We’ve collected our 100 favorite recommendations from our nightstands over the last year for those looking for a new read."
+          }
+        ]
+      },
+      {
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Through the mist.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2018/05/03/10/18/housebuilding-3370969_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Bold Coast Cottage in Main",
+            "post-copy": "My travels in Main have taken me to many destinations not in the standard visitor’s guide."
+          }
+        ]
+      }]
+    },
+    {
+      "media-query": "(min-width: 27.06rem) and (max-width: 40rem)",
+      "width": "424",
+      "height": "450",
+      "layout": "fixed",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2020/01/23/02/33/kitchen-4786780_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Birdhouse metaphor.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2018/05/08/13/44/architecture-3383067_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Interior Design for Tiny Homes",
+            "post-copy": "Rampant materialism is a no-no for the tiny home owner, but this doesn’t strand these minimalists in the design desert."
+          }
+        ]
+      },
+      {
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "The Unsplash Book.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2018/05/03/10/18/housebuilding-3370969_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "Nightstand-Worthy Books",
+            "post-copy": "We’ve collected our 100 favorite recommendations from our nightstands over the last year for those looking for a new read."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Through the mist.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/10/06/04/33/new-housing-development-2821969_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Bold Coast Cottage in Main",
+            "post-copy": "My travels in Main have taken me to many destinations not in the standard visitor’s guide."
+          }
+        ]
+      }]
+    },
+    {
+      "media-query": "(max-width: 27rem)",
+      "width": "auto",
+      "height": "450",
+      "layout": "fixed-height",
+      "story-slide": [{
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Popular producer.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2015/11/06/11/39/single-family-home-1026371_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "The Artist Behind Your Favorite Songs",
+            "post-copy": "This Los Angeles based producer is the creative genius behind many Top-40 songs."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Birdhouse metaphor.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/06/16/15/58/luxury-home-2409518_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Interior Design for Tiny Homes",
+            "post-copy": "Rampant materialism is a no-no for the tiny home owner, but this doesn’t strand these minimalists in the design desert."
+          }
+        ]
+      },
+      {
+        "story-post": [
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "The Unsplash Book.",
+                "width": 196, "height": 249, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2017/03/28/12/11/chairs-2181960_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Arts & Culture",
+            "post-category-url": "stories.amp.html?category=arts-culture#land-see-arts-culture",
+            "post-title": "Nightstand-Worthy Books",
+            "post-copy": "We’ve collected our 100 favorite recommendations from our nightstands over the last year for those looking for a new read."
+          },
+          {
+            "image": [
+              {
+                "classes": "cover",
+                "alt-text": "Through the mist.",
+                "width": 196, "height": 187, "layout": "responsive",
+                "src": "https://cdn.pixabay.com/photo/2014/08/11/21/40/bedroom-416062_960_720.jpg"
+              }
+            ],
+            "post-classes": "land-see-pre-animate land-see-post-item land-see-popular",
+            "post-url": "blog.html",
+            "post-category": "Interiors",
+            "post-category-url": "stories.amp.html?category=interiors#land-see-interiors",
+            "post-title": "Bold Coast Cottage in Main",
+            "post-copy": "My travels in Main have taken me to many destinations not in the standard visitor’s guide."
+          }
+        ]
+      }]
+    }]
+  }]
+}
